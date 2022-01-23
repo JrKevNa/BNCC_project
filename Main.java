@@ -415,7 +415,6 @@ public class Main
 					};
 					
 					String sortId = ((Karyawan) sortkaryawan.elementAt(idxKaryawan-1)).getId();
-					System.out.println(sortId);
 					
 					int tempIdx = 1;
 					for(Karyawan k : karyawan)
